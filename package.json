@@ -1,0 +1,26 @@
+{
+  "name": "atividade-04",
+  "version": "1.0.0",
+  "description": "Atividade 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioPauloDaSilva/Atividade-04.git"
+  },
+  "author": "Fabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioPauloDaSilva/Atividade-04/issues"
+  },
+  "homepage": "https://github.com/FabioPauloDaSilva/Atividade-04#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
